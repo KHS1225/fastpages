@@ -102,11 +102,13 @@ paginate_path: /page:num/
 
 remote_theme: jekyll/minima
 
-social_links:
-    - { platform: rss, user_url: "/feed.xml" }
-    - { platform: github, user_url: "https://github.com/yshmarov/" }
-    - { platform: twitter, user_url: "https://twitter.com/yarotheslav" }
-    - { platform: linkedin, user_url: "https://www.linkedin.com/in/yshmarov/" }
+minima:
+  social_links:
+    - platform: github
+      user_url: "https://github.com/jekyll/jekyll"
+    - platform: twitter
+      user_url: "https://twitter.com/jekyllrb"
+
 
 titles_from_headings:
   enabled:     true
