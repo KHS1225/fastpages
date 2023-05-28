@@ -4,7 +4,7 @@ title: About Me
 permalink: /about/
 ---
 Hyunseop Kim,
-2004.12.25, This website is powered by **[fastpages](https://github.com/fastai/fastpages)** [^1].
+2004.12.25
 
 
 
