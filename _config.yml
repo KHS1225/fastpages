@@ -102,14 +102,6 @@ paginate_path: /page:num/
 
 remote_theme: jekyll/minima
 
-minima:
-  social_links:
-    - platform: github
-      user_url: "https://github.com/jekyll/jekyll"
-    - platform: twitter
-      user_url: "https://twitter.com/jekyllrb"
-
-
 titles_from_headings:
   enabled:     true
   strip_title: true
